@@ -27,11 +27,11 @@ Observe and interpret the results, including visualisations and model performanc
 
 Examples
 
-![Outcome Distribution Plot](https://imgur.com/a/J7JuERF)
+![Outcome Distribution Plot](https://github.com/SamY724/ausCreditApplications/blob/main/assets/outcomeDistribution.png)
 
 Example output showing the distribution of approved and rejected credit applications.
 
-![Feature Importance Plot](https://imgur.com/a/fPR6VWx)
+![Feature Importance Plot](https://github.com/SamY724/ausCreditApplications/blob/main/assets/featureImportance.png)
 
 Feature importance plot from a random forest classifier.
 
